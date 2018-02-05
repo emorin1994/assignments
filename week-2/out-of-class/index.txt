@@ -1,4 +1,5 @@
-Circus : About
+Circus: About
+
 
 History
 Predecessor circuses
@@ -79,4 +80,5 @@ Many animal welfare and animal rights organizations are opposed to the use of wi
     training, harsh conditions during transport, and a general lack of mental and physical stimulation.
 
 Courtesy of Wikipedia, Ringling Bros. and Barnum & Bailey Circus
-URL: https://en.wikipedia.org/wiki/Ringling_Bros._and_Barnum_%26_Bailey_Circus    
+URL: https://en.wikipedia.org/wiki/Ringling_Bros._and_Barnum_%26_Bailey_Circus 
+
