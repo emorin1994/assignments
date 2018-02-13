@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Average+Sans|Goudy+Bookletter+1911');
+
+body {
+ 
+  font-family: 'Average Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  padding-left: 2em;
+  padding-right: 2em; 
+  background-color: #ffffff;
+}
+span:lang(ja) {
+  font-family: 'Osaka', sans-serif; 
+} 
+header {
+  font-family: 'Goudy Bookletter 1911', serif;
+}
+h1{
+  background-color:#CD8C52;
+}
+figure {
+  text-align: center;
+  
+}
+dt {
+  font-family: 'Goudy Bookletter 1911', serif;
+
+}
+blockquote {
+  background-color: #FCF7D3;
+}
+a:link {
+   color: #0000FF;
+    text-decoration: none;
+}
+a:hover {
+  color: #0000FF;
+    text-decoration: underline;
+}
+
+
+span.person {
+  background-color:#DEE8BE;
+}
+class.term {
+    font-variant: small-caps;
+}
+class.definitions {}
