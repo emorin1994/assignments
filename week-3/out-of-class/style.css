@@ -40,10 +40,10 @@ a:hover {
 }
 
 
-span.person {
+.person {
   background-color:#DEE8BE;
 }
-class.term {
+.term {
     font-variant: small-caps;
 }
 class.definitions {}
