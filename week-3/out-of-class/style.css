@@ -9,7 +9,8 @@ body {
   padding-right: 2em; 
   background-color: #ffffff;
 }
-span:lang(ja) {
+:lang(ja) {
+ 
   font-family: 'Osaka', sans-serif; 
 } 
 header {
