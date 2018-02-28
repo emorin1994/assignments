@@ -4,19 +4,25 @@
     box-sizing: border-box;
 }
 
+
 body {
     font-family: 'Gentium Basic', serif;
     font-size: 16px;
+    padding-left: 6rem;
+    padding-right: 6rem;
 }
 
 h1, h2, h3, nav {
     font-family: 'Open Sans', sans-serif;
     font-weight: normal;
+  
 }
 
 h1, h2, h3 {
     text-transform: uppercase;
+    text-align: left; 
     margin-bottom: .5rem;
+   
 }
 
 /** Header **/
@@ -24,6 +30,8 @@ header {
     background-color: #6d6fae;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
 }
 
 header img {
@@ -39,7 +47,8 @@ nav {
     height: 2rem;
     background-color: #6d6fae;
     color: white;
-    position: relative;
+    padding-left: 6rem;
+    padding-right: 6rem;
 }
 
 nav div.dropdown {
@@ -53,7 +62,7 @@ nav div.dropdown {
 .dropdown-content a {
     display: block;
     text-decoration: none;
-    color: #eaebf7;
+    color: black;
     margin-bottom: .5rem;
 }
 
@@ -81,6 +90,7 @@ div.dropbtn {
 
 
 /** Stuff in the main body **/
+
 article p {
     margin-bottom: 1em;
 }
@@ -97,11 +107,44 @@ article p {
     background-color: #fffbd5;
     padding: 1em;
     margin-bottom: 2rem
+  
 }
-
+main{
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 1rem;
+}
+.fables{
+  text-align: center;
+  width: 45%;
+  padding-right: 1rem;
+    
+  }
+article{
+  text-align: left;
+  
+}
+.scroll{
+  text-align: center;
+}
+}
+.aside{
+  width: 25rem; 
+  
+}
+article img{
+  float: left; 
+  padding: 1rem;
+  
+}
 
 /* Footer */
 footer {
-    background-color: #cfc354;
-    color: #fffbd5;
+    background-color: #EEECC9;
+    color: Black;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    text-align: center;
+    padding-top: 5rem; 
+    padding-bottom: 5rem;
 }
