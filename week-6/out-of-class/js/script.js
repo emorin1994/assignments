@@ -20,12 +20,17 @@ function displayOneDaysHours(one_days_hours) {
    if (parts_of_hours[0] === "Sunday") { 
      renderOutput( "On Sunday the Library is Closed" )
                   
-}else {
+} else {
 
   renderOutput("On " + parts_of_hours [0] + " the hours are " + parts_of_hours[1]);
   }
 }
-  
+
+  function dailyHours(hours) {
+    hours.forEach(displayOneDaysHours);
+  }
+
+dailyHours(hours);
   
   
 
