@@ -1,0 +1,9 @@
+My site is a mock academic library site for an undergraduate university. 
+To make it as fully fuctional as possible some of the pages that I did not create myself link to pages related to the college I work for.
+Additionally, the hours that I embedded are sourced from my library's libguide. I tried to play with embedding more complicated widgets but 
+I did not really understand the full API process needed to have the internal information show on an extrnal site. 
+
+The site highlights the information that would be most helpful to a college student in the context of an academic library such as, hours, databases, 
+finding books, and checkout policies, and study room policies. The site has not had text related to this content added already, but formats to
+allow for easly addition. Lastly, he site links to ITS and tutoring support resources as those are departments that live in
+our building, but manage their own digital resources.  
